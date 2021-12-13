@@ -1,7 +1,7 @@
 // receber uma quantidade de valores pra avaliar 
 //função que exibe a cada valor se é impar ou par
 
-tipo(27);
+tipo(27); //apresente aqui o valor
 
 function tipo(limite) {
     for (let i = 0; i <= limite; i++) {
